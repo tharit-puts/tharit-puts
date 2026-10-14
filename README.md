@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying Full-Stack Software Development at TechUp Bootcamp<br>🌱 Currently strengthening my skills in TypeScript and backend development<br>💻 Building full-stack projects with React, Next.js, Supabase, and Express<br>👯 Looking to collaborate on web app projects<br>🎯 Aspiring Full-Stack Developer, seeking my first role in software development<br>📫 Reach me at tharit.puts@gmail.com
+🔭 Currently studying Full-Stack Software Development at TechUp Bootcamp<br>🌱 Currently strengthening my skills in TypeScript and backend development<br>💻 Building full-stack projects with React, Next.js, Node.js,  Supabase, and Express<br>👯 Looking to collaborate on web app projects<br>🎯 Aspiring Junior Full-Stack Developer, seeking my first role in software development<br>📫 Reach me at tharit.puts@gmail.com
 
 
 ## 🌐 Socials:
